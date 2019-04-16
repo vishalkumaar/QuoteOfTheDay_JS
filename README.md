@@ -1,2 +1,4 @@
 # QuoteOfTheDay_JS
-A application that displays a few quotes by clicking a button. 
+A application that displays few quotes by clicking a button.
+Project done using HTML,CSS and JavaScript.
+
