@@ -1,7 +1,9 @@
 # QuoteOfTheDay_JS
 
 A application that displays few quotes by clicking a button.
+
 Project done using HTML,CSS and JavaScript.
+
 
 Used an array of objects to store the quotes. In JavaScript objects are referred as "Key:Value" pair.
 
