@@ -1,0 +1,27 @@
+div{
+  text-align: center;
+}
+
+
+h1{
+  font-size: 40px;
+  font-family: Times;
+
+}
+
+button{
+  width : 250px;
+  height : 80px;
+  background-color: Grey;
+  color: white;
+
+}
+
+p{
+  font-size: 35px;
+}
+
+button:hover{
+
+  background-color: #d36969;
+}
